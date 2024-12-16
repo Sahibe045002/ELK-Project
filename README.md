@@ -161,7 +161,8 @@ The dataset contains **600,000 rows** and **15 columns**, providing detailed inf
 ![Screenshot from 2024-12-16 09-36-02](https://github.com/user-attachments/assets/a6327958-4a23-4b8c-b65f-41db8878fe8b)
 ![Screenshot from 2024-12-16 09-36-33](https://github.com/user-attachments/assets/c760bf78-58b3-4acf-8cb9-119f950d4d09)
 ![Screenshot from 2024-12-16 09-36-52](https://github.com/user-attachments/assets/bee61f7c-68f0-4b34-a8a7-1e852e0d2e19)
-![Uploading Screenshot from 2024-12-16 09-37-58.png…]()
+![Screenshot from 2024-12-16 09-37-58](https://github.com/user-attachments/assets/ba2ece20-5c46-4d9b-8212-aae9905cf2a4)
+
 
 
 
