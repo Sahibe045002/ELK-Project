@@ -157,4 +157,7 @@ The dataset contains **600,000 rows** and **15 columns**, providing detailed inf
 
 **Dash board link** - http://localhost:5601/app/dashboards#/view/44e52131-c9aa-45eb-b679-72373258f071?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()
 
+![Screenshot from 2024-12-16 09-37-07](https://github.com/user-attachments/assets/97782783-a701-436a-94b4-4457c2263d82)
+
+
 
