@@ -3,6 +3,34 @@
 The objective of this project is to analyze automotive industry data to identify trends in **selling price**, **vehicle models**, **state-wise demand**, and **car conditions**. The analysis aims to provide actionable insights for **business decision-making** in pricing, inventory management, and understanding demand across various car makes and states.
 
 
+
+### Dataset Overview
+
+The dataset contains **600,000 rows** and **15 columns**, providing detailed information about vehicles and their transactions. Below is a brief description of each column:
+
+1. **Make**: The manufacturer of the vehicle (e.g., Toyota, Honda).
+2. **Model**: The specific model of the vehicle.
+3. **Trim**: Additional features or variations of the model.
+4. **Body**: The type of vehicle body (e.g., sedan, SUV, truck).
+5. **Transmission**: Type of transmission system (e.g., automatic, manual).
+6. **VIN**: The unique Vehicle Identification Number for each vehicle.
+7. **State**: The state where the transaction occurred.
+8. **Condition**: The condition of the vehicle (e.g., excellent, good, fair).
+9. **Odometer**: The distance the vehicle has traveled, measured in miles or kilometers.
+10. **Color**: The exterior color of the vehicle.
+11. **Interior**: The interior features or color of the vehicle.
+12. **Seller**: The seller of the vehicle (e.g., dealership or private seller).
+13. **MMR**: Manheim Market Report value, representing the estimated market price of the vehicle.
+14. **Selling Price**: The final selling price of the vehicle.
+
+### Key Characteristics
+
+- The dataset captures **transactional and descriptive details** of vehicles, making it suitable for analysis of market trends, pricing patterns, and vehicle condition assessments.
+- The **large number of rows (600,000)** allows for robust statistical analysis and insights across various segments, including geography, vehicle types, and seller behavior.
+- The **combination of vehicle features, market valuation (MMR), and selling price** provides a comprehensive view for pricing strategy, market demand analysis, and predictive modeling.
+
+
+
 ## Graph 1: **"Selling price VS MMR"** 
 **Question:**
 - How does the median selling price compare with MMR (Manheim Market Report values) across various car models?
