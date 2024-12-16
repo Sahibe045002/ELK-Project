@@ -126,3 +126,6 @@ The objective of this project is to analyze automotive industry data to identify
 
 ---
 
+**Dash board link** - http://localhost:5601/app/dashboards#/view/44e52131-c9aa-45eb-b679-72373258f071?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()
+
+
