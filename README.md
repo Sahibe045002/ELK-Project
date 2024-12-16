@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 ## Objective
 The objective of this project is to analyze automotive industry data to identify trends in **selling price**, **vehicle models**, **state-wise demand**, and **car conditions**. The analysis aims to provide actionable insights for **business decision-making** in pricing, inventory management, and understanding demand across various car makes and states.
 
